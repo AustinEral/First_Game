@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 def test_func():
     print('wazzup')
+    print('another one')
 =======
 def main():
     pass
