@@ -1,6 +1,2 @@
-def main():
-    pass
-
-#TODO write code
-
-print('hello there')
+def test_func():
+    print('wazzup')
